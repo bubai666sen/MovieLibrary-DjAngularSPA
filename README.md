@@ -1,6 +1,6 @@
 # Crud Frontend
 
- This is a frontend part of Django + Angular application where Django 3.0.5 is used for backend and Angular 9 is used for frontend. Django Rest Framework is used for rest api services.
+ This is a frontend part of Django + Angular application where Django 3.0.5 and Python 3.7.3 is used for backend and Angular 9 is used for frontend. Django Rest Framework is used for rest api services.
  The backend part of this app can be found here https://github.com/bubai666sen/MovieLibrary-DjAngularBackend which is a django app which provides backend support and rest api services to this Angular app.
 
 
