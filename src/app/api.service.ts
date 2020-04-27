@@ -6,7 +6,7 @@ import { Observable } from 'rxjs';
 })
 export class ApiService {
   //baseUrl = "http://127.0.0.1:8000";
-  baseUrl = "13.59.66.209";
+  baseUrl = "http://13.59.66.209";
   httpHeaders = new HttpHeaders({'Content-Type':'application/json'});
   constructor(private http: HttpClient) { }
   getMovies(): Observable<any>{
